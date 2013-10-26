@@ -1,0 +1,4 @@
+{application, streams, 
+ [
+  {vsn, "0.1"}
+ ]}.
